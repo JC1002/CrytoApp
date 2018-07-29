@@ -4,7 +4,5 @@ This is an example project created for the Certification of Android Development 
 
 
 <img src="https://github.com/JC1002/CrytoApp/blob/master/Screenshot_20180729-104828~01.png" width="350">
-
 <img src="https://github.com/JC1002/CrytoApp/blob/master/Screenshot_20180729-104841~01.png" width="350">
-
 <img src="https://github.com/JC1002/CrytoApp/blob/master/Screenshot_20180729-104854~01.png" width="350">
