@@ -45,6 +45,7 @@ public class CoinViewHolder extends RecyclerView.ViewHolder implements View.OnCl
         intent.putExtra("coin_icon",coinModel.getId());
         intent.putExtra("name", coinModel.getName());
         intent.putExtra("price", coinModel.getPrice_usd());
+        intent.putExtra("symbol", coinModel.getSymbol());
         this.ctx.startActivity(intent);
 
 

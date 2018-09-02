@@ -31,6 +31,20 @@
         android:textColor="@color/colorText"
         />
 
+
+    <TextView
+        android:id="@+id/coin_symbol_details"
+        android:text="Symbol : BTC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_gravity="center"
+        android:textColor="@color/colorText"
+        />
+
     <TextView
         android:id="@+id/coin_price_details"
         android:text="Price : $7500"

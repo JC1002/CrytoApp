@@ -96,6 +96,7 @@ public class CoinAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     @Override
     public int getItemCount() {
+
         return items.size();
     }
 
@@ -110,7 +111,6 @@ public class CoinAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     public void updateList(List<CoinModel> coins){
 
-        items = new ArrayList<>();
         items.addAll(coins);
         notifyDataSetChanged();
 
